@@ -1,0 +1,91 @@
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\obj\Debug\Service Desk.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\obj\Debug\Service_Desk.Atendimento.resources
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\obj\Debug\Service_Desk.Form1.resources
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.CopyComplete
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\Aluno\source\repos\Service Desk\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service Desk.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service_Desk.Atendimento.resources
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service_Desk.Login.resources
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service_Desk.Menu.resources
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service_Desk.CadastroAtendente.resources
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service_Desk.CadastroCliente.resources
+C:\Users\Aluno\Desktop\Service Desk\Service Desk\obj\Debug\Service_Desk.CadastroTec.resources
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.Atendimento.resources
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.CadastroAtendente.resources
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.CadastroCliente.resources
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.CadastroTec.resources
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.Menu.resources
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.Login.resources
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.CopyComplete
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\Aluno\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.pdb
