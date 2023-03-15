@@ -80,7 +80,7 @@ namespace Service_Desk
             registro2.Read();
             this.codigoid = Convert.ToInt32(registro2["id_atendente"]);
             
-            MessageBox.Show("id atendente: " + this.codigoid);
+            //MessageBox.Show("id atendente: " + this.codigoid);
             conexao2.Close();
         }
 
@@ -96,6 +96,7 @@ namespace Service_Desk
             conexao.Open();
             comando.Parameters.AddWithValue("@cpf", txtCPF.Text);
             comando.Parameters.AddWithValue("@senha", usu.getMD5hash(txtSenha.Text));
+            //comando.Parameters.AddWithValue("@senha", txtSenha.Text);
             MySqlDataReader registro = comando.ExecuteReader();//executa a consulta
 
             if (registro.HasRows)
